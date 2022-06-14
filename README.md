@@ -1,1 +1,1 @@
-# spring-boot-mariadb-example
+# spring-boot-mariadb
